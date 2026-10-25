@@ -2,7 +2,7 @@
 
 # Sukdev Bansal
 
-**Computer Science & Engineering (AI & ML) | Chitkara University (CGPA: 9.55)**  
+**Computer Science & Engineering (AI & ML) | Chitkara University **  
 *Building Autonomous AI Systems, High-Performance Software, and Resilient Web Architectures*
 
 [LinkedIn](https://linkedin.com/in/sukdev-bansal-7a0a4625a) • [GitHub](https://github.com/Sukh-1705) • [Email](mailto:bansal.sukdev@gmail.com) • [Location: Punjab, India](https://maps.google.com/?q=Muktsar,+Punjab)
